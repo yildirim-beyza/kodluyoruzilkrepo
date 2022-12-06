@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığımız link gelecek)
 
-`git clone https://github.com/yildirim-beyza/kodluyoruzilkrepo.git`
+```git clone https://github.com/yildirim-beyza/kodluyoruzilkrepo.git```
 
 
 ## Usage
@@ -27,3 +27,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
