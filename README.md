@@ -10,7 +10,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 git clone https://github.com/yildirim-beyza/kodluyoruzilkrepo.git
 ```
 
-
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -29,3 +28,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+![örnek resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
