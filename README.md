@@ -4,8 +4,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 ![repo](repo.png)
 
-[patika.dev](www.patika.dev)
-
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığımız link gelecek)
